@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circling1", "Circling1.csproj", "{F2EFD0B5-EFEA-7D7D-C5B6-A0854E900520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circling1.Editor", "Circling1.Editor.csproj", "{B9CF86D0-5B59-6495-2B2B-35B906C7E797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EFD0B5-EFEA-7D7D-C5B6-A0854E900520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EFD0B5-EFEA-7D7D-C5B6-A0854E900520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EFD0B5-EFEA-7D7D-C5B6-A0854E900520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EFD0B5-EFEA-7D7D-C5B6-A0854E900520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CF86D0-5B59-6495-2B2B-35B906C7E797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CF86D0-5B59-6495-2B2B-35B906C7E797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CF86D0-5B59-6495-2B2B-35B906C7E797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CF86D0-5B59-6495-2B2B-35B906C7E797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
